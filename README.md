@@ -8,9 +8,6 @@ https://drive.google.com/drive/folders/1e_oAxzxHZpQwMOw21LaOB9KRD1iVugaG?usp=sha
 ## Model :- 
 https://drive.google.com/file/d/1L5iezmq3_o1nUsmw3GJ81xgqFpNKTo0J/view?usp=sharing
 
-## Accurancy plot :- 
-![SharedScreenshot](https://user-images.githubusercontent.com/86012289/139533187-ce32206f-997c-4a4a-bace-5508f57b84b9.jpg)
-
 
 ## Output :- 
 ![WhatsApp Image 2021-10-30 at 8 32 21 PM](https://user-images.githubusercontent.com/86012289/139542288-a115f5c3-7db4-4c7e-9400-344042821b54.jpeg)
