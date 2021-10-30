@@ -11,6 +11,11 @@ https://drive.google.com/file/d/1L5iezmq3_o1nUsmw3GJ81xgqFpNKTo0J/view?usp=shari
 ## Accurancy plot :- 
 ![SharedScreenshot](https://user-images.githubusercontent.com/86012289/139533187-ce32206f-997c-4a4a-bace-5508f57b84b9.jpg)
 
+
+## Output :- 
+![WhatsApp Image 2021-10-30 at 8 32 21 PM](https://user-images.githubusercontent.com/86012289/139542288-a115f5c3-7db4-4c7e-9400-344042821b54.jpeg)
+
+
 ## Conclusion
 This research suggests a two-stage deep residual learning technique using lung X-ray images to identify COVID-19-induced pneumonia. The model showed good performance in differentiating COVID-19 patients and patients with COVID-19-induced pneumonia using the Resent50 model. Parallel testing can be used in the current scenario to prevent infection spread to frontline workers and generate primary diagnoses to determine whether a patient is affected by COVID-19. Therefore, the proposed method can be used as an alternative diagnostic tool for detecting pneumonia cases. Future research can improve the CNN architecture performance by adjusting the hyperparameters and transfer learning combinations. Another feasible way to determine the best model for pneumonia and COVID-19 could be an improved, complex network structure.
 
