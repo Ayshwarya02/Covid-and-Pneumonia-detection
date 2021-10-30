@@ -2,9 +2,11 @@
 The COVID-19 pandemic has wreaked havoc in the daily life of human beings and devastated many economies worldwide, claiming millions of lives so far. Studies on COVID-19 have shown that older adults and people with a history of various medical issues, specifically prior cases of pneumonia, are at a higher risk of developing severe complications from COVID-19. As pneumonia is a common type of infection that spreads in the lungs, doctors usually perform chest X-ray to identify the infected regions of the lungs. In this study, machine learning tools such as LabelBinarizer are used to perform one-hot encoding on the labeled chest X-ray images and transform them into categorical form using Python’s to_categorical tool. Subsequently, various deep learning features such as convolutional neural network (CNN), ResNet50, AveragePooling2D, dropout, flatten, dense, and input are used to build a detection model. Adam is used as an optimizer, which can be further applied to predict pneumonia in COVID-19 patients. The model predicted Covid with an average accuracy of 93.70%. The model also efficiently reduces training loss and increases accuracy.
 
 
-## Dataset :- https://drive.google.com/drive/folders/1e_oAxzxHZpQwMOw21LaOB9KRD1iVugaG?usp=sharing
+## Dataset :- 
+https://drive.google.com/drive/folders/1e_oAxzxHZpQwMOw21LaOB9KRD1iVugaG?usp=sharing
 
-## Model :- https://drive.google.com/file/d/1L5iezmq3_o1nUsmw3GJ81xgqFpNKTo0J/view?usp=sharing
+## Model :- 
+https://drive.google.com/file/d/1L5iezmq3_o1nUsmw3GJ81xgqFpNKTo0J/view?usp=sharing
 
 ## accurancy plot :- 
 ![SharedScreenshot](https://user-images.githubusercontent.com/86012289/139533187-ce32206f-997c-4a4a-bace-5508f57b84b9.jpg)
